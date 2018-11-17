@@ -132,11 +132,6 @@ aside img:hover {
 	margin: 20px 0 22px 0;
 }
 
-#ConnxImages {
-	display: flex;
-	justify-content: space-between;
-}
-
 footer {
 	position: fixed;
 	left: 0;
